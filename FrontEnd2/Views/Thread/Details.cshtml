@@ -1,0 +1,74 @@
+﻿@model FrontEnd2.ViewModels.ThreadVM
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ThreadVM</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.threadName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.threadName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.threadDiscription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.threadDiscription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.threadKeyTerms)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.threadKeyTerms)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.threadCreationDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.threadCreationDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.threadNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.threadNumber)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PostId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PostId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UserId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

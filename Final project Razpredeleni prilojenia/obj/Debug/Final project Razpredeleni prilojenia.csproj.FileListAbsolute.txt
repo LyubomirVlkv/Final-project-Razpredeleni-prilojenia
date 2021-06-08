@@ -1,0 +1,34 @@
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\Final project Razpredeleni prilojenia.dll.config
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\Final project Razpredeleni prilojenia.dll
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\Final project Razpredeleni prilojenia.pdb
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\ApplicationService1.dll
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\DBContext.dll
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\EntityFramework.dll
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\ApplicationService1.pdb
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\ApplicationService1.dll.config
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\DBContext.pdb
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\DBContext.dll.config
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\EntityFramework.xml
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\obj\Debug\Final project Razpredeleni prilojenia.csprojAssemblyReference.cache
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\obj\Debug\Final project Razpredeleni prilojenia.csproj.CoreCompileInputs.cache
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\obj\Debug\Final project Razpredeleni prilojenia.csproj.CopyComplete
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\obj\Debug\Final project Razpredeleni prilojenia.dll
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\obj\Debug\Final project Razpredeleni prilojenia.pdb
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\System.Web.Helpers.dll
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\System.Web.Mvc.dll
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\System.Web.Razor.dll
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\System.Web.WebPages.dll
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\System.Web.Helpers.xml
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\System.Web.Mvc.xml
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\System.Web.Razor.xml
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\System.Web.WebPages.xml
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\Repository.dll
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\Repository.pdb
+C:\Users\lobom\source\repos\Final project Razpredeleni prilojenia\Final project Razpredeleni prilojenia\bin\Debug\Repository.dll.config

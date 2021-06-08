@@ -1,0 +1,66 @@
+﻿@model FrontEnd2.ViewModels.PostVM
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>PostVM</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.smallerdescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.smallerdescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.description)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.description)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.keyterms)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.keyterms)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.postcreated)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.postcreated)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.postNumber)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.postNumber)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

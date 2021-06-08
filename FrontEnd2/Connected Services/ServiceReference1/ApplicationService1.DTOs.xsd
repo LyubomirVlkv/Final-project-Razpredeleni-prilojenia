@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/ApplicationService1.DTOs" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/ApplicationService1.DTOs" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfUserDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="UserDTO" nillable="true" type="tns:UserDTO" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfUserDTO" nillable="true" type="tns:ArrayOfUserDTO" />
+  <xs:complexType name="UserDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Description" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Email" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="Password" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Username" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="userAge" type="xs:double" />
+      <xs:element minOccurs="0" name="userCreated" type="xs:dateTime" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="UserDTO" nillable="true" type="tns:UserDTO" />
+  <xs:complexType name="ArrayOfPostDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="PostDTO" nillable="true" type="tns:PostDTO" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfPostDTO" nillable="true" type="tns:ArrayOfPostDTO" />
+  <xs:complexType name="PostDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="description" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="keyterms" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="postNumber" type="xs:long" />
+      <xs:element minOccurs="0" name="postcreated" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="smallerdescription" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="title" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="PostDTO" nillable="true" type="tns:PostDTO" />
+  <xs:complexType name="ArrayOfThreadDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="ThreadDTO" nillable="true" type="tns:ThreadDTO" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfThreadDTO" nillable="true" type="tns:ArrayOfThreadDTO" />
+  <xs:complexType name="ThreadDTO">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Id" type="xs:int" />
+      <xs:element minOccurs="0" name="PostId" type="xs:int" />
+      <xs:element minOccurs="0" name="UserId" type="xs:int" />
+      <xs:element minOccurs="0" name="post" nillable="true" type="tns:PostDTO" />
+      <xs:element minOccurs="0" name="threadCreationDate" type="xs:dateTime" />
+      <xs:element minOccurs="0" name="threadDiscription" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="threadKeyTerms" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="threadName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="threadNumber" type="xs:long" />
+      <xs:element minOccurs="0" name="user" nillable="true" type="tns:UserDTO" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ThreadDTO" nillable="true" type="tns:ThreadDTO" />
+</xs:schema>
